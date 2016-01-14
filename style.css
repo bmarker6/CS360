@@ -1,0 +1,66 @@
+body {
+	
+}
+
+div {
+	position: absolute;
+}
+
+#header {
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 5em;
+	background-color: #2C6700;
+
+}
+
+#header img {
+	height: 5em;
+	z-index: 3;
+}
+
+#title {
+	left: 11em;
+	color: #FFFFFF;
+}
+
+#main {
+	padding-left: 1em;
+	left: 10em;
+	top: 4.9em;
+	right: 0;
+	bottom: 0;
+	background-color: #E5E4D7;
+
+}
+
+#sidebar {
+	left: 0;
+	top: 4.4em;
+	bottom: 0;
+	width: 10em;
+	background-color: #92CD00;
+	font-size: large;
+}
+
+#sidebar a {
+	color: #FFFFFF;
+	text-decoration: none;
+
+
+}
+
+#sidebar ul {
+	list-style-type: square;
+}
+
+li {
+	padding: 0em 0em .5em 0em;
+}
+
+#sidebar a:hover {
+	color: white;
+	background-color: #FFCF79;
+	text-decoration: none;
+}
