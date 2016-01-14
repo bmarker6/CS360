@@ -35,6 +35,14 @@ div {
 
 }
 
+#main img {
+	height: 10em;
+}
+
+td {
+	padding-right: 2em;
+}
+
 #sidebar {
 	left: 0;
 	top: 4.4em;
